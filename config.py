@@ -1,0 +1,2 @@
+NYT_API_KEY = "hMveWeNAcHgzmP1THjTfW8MaUGVhlwJo"
+
